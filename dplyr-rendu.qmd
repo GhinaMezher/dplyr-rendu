@@ -9,6 +9,7 @@ Before starting the exercise, we must define our directory, call all the librari
 
 The repository link is : https://github.com/GhinaMezher/dplyr-rendu.git
 
+test 1
 
 ```{r}
 #|echo: false
